@@ -8,8 +8,8 @@ Major in International Studies(Economics, Politics, and Law)
     - English: intermediate-high
     - Japanese: advanced
     
-    - JavaScript: plain, react
-    - Java: plain, spring
+    - JavaScript: plain, react, vue
+    - Java: plain, spring(+boot)
     - Python: plain
 
 ## Aim
