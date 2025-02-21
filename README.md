@@ -1,7 +1,5 @@
 # ✨Introduction
 
-[![DocshunD UCC](https://img.youtube.com/vi/vpjdXrrvcJs/0.jpg)](https://youtu.be/vpjdXrrvcJs)
-
 Major in International Studies(Economics, Politics, and Law)
 -> Now Digging in Web Programming for enhancing my skills in digital world.
 
