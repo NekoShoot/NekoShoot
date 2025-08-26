@@ -4,13 +4,13 @@ Major in International Studies(Economics, Politics, and Law)
 -> Now Digging in Web Programming for enhancing my skills in digital world.
 
 ## Language
-    - Korean: native
-    - English: intermediate-high
-    - Japanese: advanced
+    - Korean: Native
+    - English: Intermediate-high
+    - Japanese: Advanced
     
-    - JavaScript/TypeScript: vanila, react, vue, nest.js
-    - Java: vanila, spring(+boot)
-    - Python: plain
+    - JavaScript/TypeScript: Vanila, React, Vue.js, Nest.js
+    - Java: Vanila, Spring(+Boot)
+    - Python: Vanila
 
 ## Aim
     - Get rid of Time & Space barriers especially state borders. 
