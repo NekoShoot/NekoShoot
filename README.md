@@ -8,7 +8,7 @@ Major in International Studies(Economics, Politics, and Law)
     - English: intermediate-high
     - Japanese: advanced
     
-    - JavaScript: vanila, react, vue
+    - JavaScript/TypeScript: vanila, react, vue, nest.js
     - Java: vanila, spring(+boot)
     - Python: plain
 
